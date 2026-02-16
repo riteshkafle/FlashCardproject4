@@ -43,11 +43,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/4c8fc57cb29347ed807178b72954b88a">
+      <p> Project4Flashcard.mov  - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/4c8fc57cb29347ed807178b72954b88a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4c8fc57cb29347ed807178b72954b88a-31ed50c7b7ad608b-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 ## Notes
 
